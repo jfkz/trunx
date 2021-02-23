@@ -1,5 +1,5 @@
 {
-  "name": "trunx",
+  "name": "@jfkz/trunx",
   "version": "0.38.2",
   "description": "Super Saiyan React components, son of awesome Bulma, implemented in TypeScript",
   "main": "component/index.js",
@@ -39,7 +39,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fibo/trunx.git"
+    "url": "git+https://github.com/jfkz/trunx.git"
   },
   "keywords": [
     "react",

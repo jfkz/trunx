@@ -13,7 +13,7 @@
     "removeComments": true,
     "sourceMap": false,
     "strictNullChecks": true,
-    "target": "es5"
+    "target": "ES5"
   },
   "files": ["src/component/index.ts", "src/component/metadata.ts"]
 }
